@@ -7,35 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		35D40AAE1FCF20D10094BED4 /* Player_by_Patric_Piemonte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AAD1FCF20D10094BED4 /* Player_by_Patric_Piemonte.swift */; };
-		35D40ABB1FCF20E80094BED4 /* CardGroupSliding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB21FCF20E80094BED4 /* CardGroupSliding.swift */; };
-		35D40ABC1FCF20E80094BED4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB31FCF20E80094BED4 /* DetailViewController.swift */; };
-		35D40ABD1FCF20E80094BED4 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB41FCF20E80094BED4 /* Card.swift */; };
-		35D40ABE1FCF20E80094BED4 /* CardPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB51FCF20E80094BED4 /* CardPlayer.swift */; };
-		35D40ABF1FCF20E80094BED4 /* CardHighlight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB61FCF20E80094BED4 /* CardHighlight.swift */; };
-		35D40AC01FCF20E80094BED4 /* Animator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB71FCF20E80094BED4 /* Animator.swift */; };
-		35D40AC11FCF20E80094BED4 /* LayoutHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB81FCF20E80094BED4 /* LayoutHelper.swift */; };
-		35D40AC21FCF20E80094BED4 /* CardGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40AB91FCF20E80094BED4 /* CardGroup.swift */; };
-		35D40AC31FCF20E80094BED4 /* CardArticle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D40ABA1FCF20E80094BED4 /* CardArticle.swift */; };
-		35D40AC81FCF27C80094BED4 /* Player.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D40AC71FCF27C80094BED4 /* Player.framework */; };
+		35DAFC301FCF3ADA0088D5DF /* Player_by_Patric_Piemonte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFBC01FCF3ADA0088D5DF /* Player_by_Patric_Piemonte.swift */; };
+		35DAFC721FCF3ADB0088D5DF /* CardGroupSliding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC1B1FCF3ADA0088D5DF /* CardGroupSliding.swift */; };
+		35DAFC731FCF3ADB0088D5DF /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC1C1FCF3ADA0088D5DF /* DetailViewController.swift */; };
+		35DAFC741FCF3ADB0088D5DF /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC1D1FCF3ADA0088D5DF /* Card.swift */; };
+		35DAFC751FCF3ADB0088D5DF /* CardPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC1E1FCF3ADA0088D5DF /* CardPlayer.swift */; };
+		35DAFC761FCF3ADB0088D5DF /* CardHighlight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC1F1FCF3ADA0088D5DF /* CardHighlight.swift */; };
+		35DAFC771FCF3ADB0088D5DF /* Animator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC201FCF3ADA0088D5DF /* Animator.swift */; };
+		35DAFC781FCF3ADB0088D5DF /* LayoutHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC211FCF3ADA0088D5DF /* LayoutHelper.swift */; };
+		35DAFC791FCF3ADB0088D5DF /* CardGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC221FCF3ADA0088D5DF /* CardGroup.swift */; };
+		35DAFC7A1FCF3ADB0088D5DF /* CardArticle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DAFC231FCF3ADA0088D5DF /* CardArticle.swift */; };
+		35DAFC7C1FCF3ADB0088D5DF /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 35DAFC251FCF3ADA0088D5DF /* Info.plist */; };
+		35DAFC801FCF3C630088D5DF /* Player.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35DAFC7F1FCF3C630088D5DF /* Player.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		35902CB11FCF1DDF001DBD7B /* Cards.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Cards.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		35D40AAA1FCF20850094BED4 /* Cards.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cards.h; sourceTree = "<group>"; };
-		35D40AAD1FCF20D10094BED4 /* Player_by_Patric_Piemonte.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player_by_Patric_Piemonte.swift; sourceTree = "<group>"; };
-		35D40AAF1FCF20DB0094BED4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		35D40AB21FCF20E80094BED4 /* CardGroupSliding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardGroupSliding.swift; sourceTree = "<group>"; };
-		35D40AB31FCF20E80094BED4 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
-		35D40AB41FCF20E80094BED4 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
-		35D40AB51FCF20E80094BED4 /* CardPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardPlayer.swift; sourceTree = "<group>"; };
-		35D40AB61FCF20E80094BED4 /* CardHighlight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardHighlight.swift; sourceTree = "<group>"; };
-		35D40AB71FCF20E80094BED4 /* Animator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animator.swift; sourceTree = "<group>"; };
-		35D40AB81FCF20E80094BED4 /* LayoutHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutHelper.swift; sourceTree = "<group>"; };
-		35D40AB91FCF20E80094BED4 /* CardGroup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardGroup.swift; sourceTree = "<group>"; };
-		35D40ABA1FCF20E80094BED4 /* CardArticle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardArticle.swift; sourceTree = "<group>"; };
-		35D40AC41FCF20F80094BED4 /* Cards.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Cards.podspec; path = ../Cards.podspec; sourceTree = "<group>"; };
-		35D40AC71FCF27C80094BED4 /* Player.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Player.framework; path = Carthage/Build/iOS/Player.framework; sourceTree = "<group>"; };
+		35DAFBC01FCF3ADA0088D5DF /* Player_by_Patric_Piemonte.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player_by_Patric_Piemonte.swift; sourceTree = "<group>"; };
+		35DAFC1B1FCF3ADA0088D5DF /* CardGroupSliding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardGroupSliding.swift; sourceTree = "<group>"; };
+		35DAFC1C1FCF3ADA0088D5DF /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		35DAFC1D1FCF3ADA0088D5DF /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		35DAFC1E1FCF3ADA0088D5DF /* CardPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardPlayer.swift; sourceTree = "<group>"; };
+		35DAFC1F1FCF3ADA0088D5DF /* CardHighlight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardHighlight.swift; sourceTree = "<group>"; };
+		35DAFC201FCF3ADA0088D5DF /* Animator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animator.swift; sourceTree = "<group>"; };
+		35DAFC211FCF3ADA0088D5DF /* LayoutHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutHelper.swift; sourceTree = "<group>"; };
+		35DAFC221FCF3ADA0088D5DF /* CardGroup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardGroup.swift; sourceTree = "<group>"; };
+		35DAFC231FCF3ADA0088D5DF /* CardArticle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardArticle.swift; sourceTree = "<group>"; };
+		35DAFC251FCF3ADA0088D5DF /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35DAFC3B1FCF3ADA0088D5DF /* Cards.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Cards.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		35DAFC7F1FCF3C630088D5DF /* Player.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Player.framework; path = Carthage/Build/iOS/Player.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35D40AC81FCF27C80094BED4 /* Player.framework in Frameworks */,
+				35DAFC801FCF3C630088D5DF /* Player.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,52 +52,50 @@
 		35902CA71FCF1DDF001DBD7B = {
 			isa = PBXGroup;
 			children = (
-				35D40AAA1FCF20850094BED4 /* Cards.h */,
-				35D40AAF1FCF20DB0094BED4 /* Info.plist */,
-				35D40AC41FCF20F80094BED4 /* Cards.podspec */,
-				35D40AB11FCF20E80094BED4 /* Sources */,
-				35D40AAC1FCF20D10094BED4 /* Dependencies */,
-				35902CB21FCF1DDF001DBD7B /* Products */,
-				35D40AC61FCF27C80094BED4 /* Frameworks */,
+				35DAFBBD1FCF3ADA0088D5DF /* Cards */,
+				35DAFC3B1FCF3ADA0088D5DF /* Cards.framework */,
+				35DAFC7E1FCF3C630088D5DF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		35902CB21FCF1DDF001DBD7B /* Products */ = {
+		35DAFBBD1FCF3ADA0088D5DF /* Cards */ = {
 			isa = PBXGroup;
 			children = (
-				35902CB11FCF1DDF001DBD7B /* Cards.framework */,
+				35DAFBBF1FCF3ADA0088D5DF /* Dependencies */,
+				35DAFC1A1FCF3ADA0088D5DF /* Sources */,
+				35DAFC251FCF3ADA0088D5DF /* Info.plist */,
 			);
-			name = Products;
+			path = Cards;
 			sourceTree = "<group>";
 		};
-		35D40AAC1FCF20D10094BED4 /* Dependencies */ = {
+		35DAFBBF1FCF3ADA0088D5DF /* Dependencies */ = {
 			isa = PBXGroup;
 			children = (
-				35D40AAD1FCF20D10094BED4 /* Player_by_Patric_Piemonte.swift */,
+				35DAFBC01FCF3ADA0088D5DF /* Player_by_Patric_Piemonte.swift */,
 			);
 			path = Dependencies;
 			sourceTree = "<group>";
 		};
-		35D40AB11FCF20E80094BED4 /* Sources */ = {
+		35DAFC1A1FCF3ADA0088D5DF /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				35D40AB21FCF20E80094BED4 /* CardGroupSliding.swift */,
-				35D40AB31FCF20E80094BED4 /* DetailViewController.swift */,
-				35D40AB41FCF20E80094BED4 /* Card.swift */,
-				35D40AB51FCF20E80094BED4 /* CardPlayer.swift */,
-				35D40AB61FCF20E80094BED4 /* CardHighlight.swift */,
-				35D40AB71FCF20E80094BED4 /* Animator.swift */,
-				35D40AB81FCF20E80094BED4 /* LayoutHelper.swift */,
-				35D40AB91FCF20E80094BED4 /* CardGroup.swift */,
-				35D40ABA1FCF20E80094BED4 /* CardArticle.swift */,
+				35DAFC1B1FCF3ADA0088D5DF /* CardGroupSliding.swift */,
+				35DAFC1C1FCF3ADA0088D5DF /* DetailViewController.swift */,
+				35DAFC1D1FCF3ADA0088D5DF /* Card.swift */,
+				35DAFC1E1FCF3ADA0088D5DF /* CardPlayer.swift */,
+				35DAFC1F1FCF3ADA0088D5DF /* CardHighlight.swift */,
+				35DAFC201FCF3ADA0088D5DF /* Animator.swift */,
+				35DAFC211FCF3ADA0088D5DF /* LayoutHelper.swift */,
+				35DAFC221FCF3ADA0088D5DF /* CardGroup.swift */,
+				35DAFC231FCF3ADA0088D5DF /* CardArticle.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
 		};
-		35D40AC61FCF27C80094BED4 /* Frameworks */ = {
+		35DAFC7E1FCF3C630088D5DF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				35D40AC71FCF27C80094BED4 /* Player.framework */,
+				35DAFC7F1FCF3C630088D5DF /* Player.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -131,7 +128,7 @@
 			);
 			name = Cards;
 			productName = Cards;
-			productReference = 35902CB11FCF1DDF001DBD7B /* Cards.framework */;
+			productReference = 35DAFC3B1FCF3ADA0088D5DF /* Cards.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -155,9 +152,10 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 35902CA71FCF1DDF001DBD7B;
-			productRefGroup = 35902CB21FCF1DDF001DBD7B /* Products */;
+			productRefGroup = 35902CA71FCF1DDF001DBD7B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -171,6 +169,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35DAFC7C1FCF3ADB0088D5DF /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,16 +180,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35D40ABC1FCF20E80094BED4 /* DetailViewController.swift in Sources */,
-				35D40ABB1FCF20E80094BED4 /* CardGroupSliding.swift in Sources */,
-				35D40AAE1FCF20D10094BED4 /* Player_by_Patric_Piemonte.swift in Sources */,
-				35D40AC11FCF20E80094BED4 /* LayoutHelper.swift in Sources */,
-				35D40AC31FCF20E80094BED4 /* CardArticle.swift in Sources */,
-				35D40ABE1FCF20E80094BED4 /* CardPlayer.swift in Sources */,
-				35D40ABF1FCF20E80094BED4 /* CardHighlight.swift in Sources */,
-				35D40AC01FCF20E80094BED4 /* Animator.swift in Sources */,
-				35D40AC21FCF20E80094BED4 /* CardGroup.swift in Sources */,
-				35D40ABD1FCF20E80094BED4 /* Card.swift in Sources */,
+				35DAFC751FCF3ADB0088D5DF /* CardPlayer.swift in Sources */,
+				35DAFC791FCF3ADB0088D5DF /* CardGroup.swift in Sources */,
+				35DAFC731FCF3ADB0088D5DF /* DetailViewController.swift in Sources */,
+				35DAFC761FCF3ADB0088D5DF /* CardHighlight.swift in Sources */,
+				35DAFC721FCF3ADB0088D5DF /* CardGroupSliding.swift in Sources */,
+				35DAFC771FCF3ADB0088D5DF /* Animator.swift in Sources */,
+				35DAFC7A1FCF3ADB0088D5DF /* CardArticle.swift in Sources */,
+				35DAFC741FCF3ADB0088D5DF /* Card.swift in Sources */,
+				35DAFC301FCF3ADA0088D5DF /* Player_by_Patric_Piemonte.swift in Sources */,
+				35DAFC781FCF3ADB0088D5DF /* LayoutHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,8 +323,10 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 					"$(SRCROOT)/Carthage/Build",
 					"${PROJECT_DIR}/Carthage/Build/**",
+					"$(PROJECT_DIR)/Cards/Carthage/Checkouts/Player/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Cards/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Cards/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -352,8 +353,10 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 					"$(SRCROOT)/Carthage/Build",
 					"${PROJECT_DIR}/Carthage/Build/**",
+					"$(PROJECT_DIR)/Cards/Carthage/Checkouts/Player/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Cards/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Cards/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
